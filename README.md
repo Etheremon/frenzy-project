@@ -1,9 +1,11 @@
-### Run kaya
+Remember to clone with `--recursive` or run `git submodule update --init`
+
+### Run kaya (Local chain for Scilla)
   - `cd kaya`
   - `npm install`
   - `npm run debug:fixtures`
 
-### Deploy contract
+### Deploy contract from emont-frenzy
   - `cd scripts`
   - `npm install`
   - `node DeployContract.js`
