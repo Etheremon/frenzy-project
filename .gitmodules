@@ -1,0 +1,6 @@
+[submodule "emont-frenzy"]
+	path = emont-frenzy
+	url = git@github.com:Etheremon/emont-frenzy.git
+[submodule "kaya"]
+	path = kaya
+	url = https://github.com/Zilliqa/kaya.git
