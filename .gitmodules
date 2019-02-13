@@ -4,3 +4,6 @@
 [submodule "kaya"]
 	path = kaya
 	url = https://github.com/Zilliqa/kaya.git
+[submodule "emont-frenzy-web"]
+	path = emont-frenzy-web
+	url = git@github.com:jarvis57/frenzy-web.git
