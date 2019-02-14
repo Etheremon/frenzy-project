@@ -1,9 +1,16 @@
 [submodule "emont-frenzy"]
 	path = emont-frenzy
 	url = git@github.com:Etheremon/emont-frenzy.git
+	branch = master
 [submodule "kaya"]
 	path = kaya
 	url = https://github.com/Zilliqa/kaya.git
+	branch = master
 [submodule "emont-frenzy-web"]
 	path = emont-frenzy-web
 	url = git@github.com:jarvis57/frenzy-web.git
+	branch = master
+[submodule "scilla"]
+	path = scilla
+	url = git@github.com:Zilliqa/scilla.git
+	branch = master
